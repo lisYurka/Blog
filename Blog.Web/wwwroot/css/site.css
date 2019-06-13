@@ -1,0 +1,20 @@
+﻿header {
+    background-color: indianred;
+    height: 40px;
+    border: solid;
+}
+
+#PostPreview {
+    background-color: red;
+    height: auto;
+    border: solid;
+    margin-top: 40px;
+    margin-left: 160px;
+    margin-right: 160px;
+    height: 320px;
+}
+
+#NameOfPost {
+    padding-top: 35px;
+    font-size: 40px;
+}
