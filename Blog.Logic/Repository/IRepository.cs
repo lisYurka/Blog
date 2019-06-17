@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Blog.Logic.Entities;
-using Blog.Logic.Context;
-using System.ComponentModel.DataAnnotations;
-using System.Web.Mvc;
-using System.Data.Entity;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace Blog.Logic.Repository
 {
@@ -16,6 +8,6 @@ namespace Blog.Logic.Repository
         void Update(T item);
         void Delete(T item);
         T GetById(int id);
-        IEnumerable<T> Get();
+        List<T> Get();
     }
 }

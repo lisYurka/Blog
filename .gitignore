@@ -3,6 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
 # User-specific files
 *.rsuser
 *.suo
@@ -347,3 +348,18 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+Blog.Service/obj/
+Blog.Service/bin/
+Blog.Logic/obj/
+Blog.Logic/bin/
+Blog.Web/obj/
+Blog.Web/bin/
+.vs/
+vs/
+
+
+
+
+Blog.Logic/obj/Blog.Logic.csproj.nuget.cache
+Blog.Logic/obj/Blog.Logic.csproj.nuget.g.props
+Blog.Logic/obj/Debug/netcoreapp2.1/Blog.Logic.assets.cache

@@ -5,13 +5,18 @@
 }
 
 #PostPreview {
-    background-color: red;
     height: auto;
     border: solid;
     margin-top: 40px;
     margin-left: 160px;
     margin-right: 160px;
     height: 320px;
+}
+
+#Menu{
+    height:150px;
+    width:50px;
+    background-color:aqua;
 }
 
 #NameOfPost {

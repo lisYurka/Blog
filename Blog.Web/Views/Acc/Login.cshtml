@@ -1,0 +1,26 @@
+﻿@model Blog.Web.Models.LoginModel
+<h2>Вход в Blog</h2>
+<a asp-action="Register" asp-controller="Acc">Регистрация</a>
+<form method="post" asp-controller="Acc" asp-action="Login" asp-antiforgery="true">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div>
+        <div class="form-group">
+        <label asp-for="Login">Введите логин</label><br />
+        <input type="text" asp-for="Login" />
+        <span asp-validation-for="Login" />
+        </div>
+        <div class="form-group">
+        <label asp-for="Password">Введите пароль</label><br />
+        <input asp-for="Password" />
+        <span asp-validation-for="Password" />
+        </div>
+        <div>
+        <label asp-for="SaveLoginPassword">Сохранить пароль?</label><br />
+        <input asp-for="SaveLoginPassword" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Войти"/>
+        </div>
+    </div>
+</form>
+

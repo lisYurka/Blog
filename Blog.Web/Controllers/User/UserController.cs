@@ -1,57 +1,68 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Blog.Service.DTO;
+using Blog.Service.Interfaces;
+using Blog.Web.Models;
 using Microsoft.AspNetCore.Mvc;
-using Blog.Logic.Repository;
-using Blog.Logic.Entities;
-using Blog.Service.Implementation;
-using System.Data.Entity;
+using System;
+using Blog.Logic;
 
 namespace Blog.Web.Controllers
 {
     public class UserController : Controller
     {
-       /* private IRepository<User> repository = null;
-        /* CommentController()
-         {
-             repository = new BaseRepository<Comment>();
-         }
-        UserController(BaseRepository<User> repository)
-        {
-            this.repository = repository;
-        }
-        /*public IActionResult CommentView()//////////////?????????????????????????
-        {
-            return View();
-        }
-        public void AddUser(User comment)
-        {
-            if (ModelState.IsValid)
-            {
-                repository.Create(comment);
-            }
-            else
-                throw new Exception("Comment isn't valid!");
-        }
-        public void DeleteUser(int id)
-        {
-            var com = repository.GetById(id);
-            if (com != null)
-            {
-                repository.Delete(com);
-            }
-        }
-        public void UpdateUser(User comment)
-        {
-            if (ModelState.IsValid)
-            {
-                repository.Update(comment);
-            }
-            else
-                throw new Exception("Comment isn't valid!");
-        }*/
+        IUserService userService;
 
+        UserController(IUserService service)
+        {
+            userService = service;
+        }
+
+        public void AddUser(UserViewModel user)
+        {
+            try
+            {
+                var userDTO = new UserDTO
+                {
+                    Id = user.Id,
+                    FullName = user.FullName,
+                    RoleId = user.RoleId,
+                    Login = user.Login,
+                    Mail = user.Mail,
+                    Password = user.Password
+                };
+                userService.MakeUser(userDTO);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("Error! ", ex.Message);
+            }
+        }
+
+        
+
+        public void RemoveUser(int id)
+        {
+            try
+            {
+                var userDTO = userService.GetUserById(id);
+                userService.RemoveUser(userDTO);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("Error! ", ex.Message);
+            }
+        }
+
+        public void UpdateUser(int id)
+        {
+            try
+            {
+                var userDTO = userService.GetUserById(id);
+                userService.UpdateUser(userDTO);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("Error! ", ex.Message);
+            }
+        }
     }
 }

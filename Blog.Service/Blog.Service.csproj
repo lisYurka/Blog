@@ -5,24 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CK.AspNet.Tester" Version="2.1.4" />
-    <PackageReference Include="EntityFramework" Version="6.2.0" />
-    <PackageReference Include="EntityFramework.SqlServerCompact" Version="6.2.0" />
-    <PackageReference Include="Microsoft.AspNet.Identity.EntityFramework" Version="2.2.2" />
-    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
-    <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.7" />
-    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.7" />
-    <PackageReference Include="Microsoft.AspNet.WebApi.WebHost" Version="5.2.7" />
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.1" />
+    <PackageReference Include="Microsoft.PowerShell.ConsoleHost" Version="6.2.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Blog.Logic\Blog.Logic.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Implementation\" />
-    <Folder Include="Interfaces\" />
   </ItemGroup>
 
 </Project>

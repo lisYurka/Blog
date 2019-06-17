@@ -1,0 +1,28 @@
+﻿@using Blog.Web.Models
+@model List<PostViewModel>
+@foreach (var item in Model)
+{
+<div id="PostPreview">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="row">
+                <div class="col-auto mr-auto">@item.Category</div>
+                <div class="col-auto">@item.Author</div>
+            </div>
+            <div class="row">
+                <div class="col-auto mr-auto">
+                    <span>@DateTime.Now.Day</span>
+                    <span>@DateTime.Now.Month</span>
+                    <span>@DateTime.Now.Year</span>
+                </div>
+                <div class="col-auto">
+                    Like @item.Like<br />Kоменты @item.Comment
+                </div>
+            </div>
+            <div class="row">
+                <div id="NameOfPost" class="col-12 text-center">@item.Title</div>
+            </div>
+        </div>
+    </div>
+</div>
+}

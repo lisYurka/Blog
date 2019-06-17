@@ -1,0 +1,1067 @@
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 265.7137ms 200 
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Blog.Web.Controllers.HomeController (Blog.Web).
+Executing action method Blog.Web.Controllers.HomeController.Index (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.HomeController.Index (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1266ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 346.8079ms.
+Executed action Blog.Web.Controllers.HomeController.Index (Blog.Web) in 516.1656ms
+Request finished in 1719.8596ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\emergency\Documents\GitBlog\Blog\Blog.Web\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\emergency\Documents\GitBlog\Blog\Blog.Web\wwwroot\js\site.js'
+Request finished in 127.1708ms 200 text/css
+Request finished in 126.7948ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Processing request /lib/bootstrap/dist/js/bootstrap.bundle.js
+Request finished in 48.3247ms 200 
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\emergency\Documents\GitBlog\Blog\Blog.Web\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 529.0645ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/favicon.ico  
+Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\emergency\Documents\GitBlog\Blog\Blog.Web\wwwroot\favicon.ico'
+Request finished in 76.6924ms 200 image/x-icon
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 139.6769ms 200 
+Processing request /
+Request finished in 577.5457ms 200 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 150.1589ms 200 
+Processing request /
+Request finished in 589.276ms 200 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 250.6292ms 200 
+Request finished in 591.9221ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 128.5888ms 200 
+Request finished in 562.4138ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 12.16ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 6.8968ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 15.3382ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 143.2875ms 200 
+Request finished in 553.0465ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 320.4663ms 200 
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Blog.Web.Controllers.HomeController (Blog.Web).
+Executing action method Blog.Web.Controllers.HomeController.Index (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.HomeController.Index (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.0451ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 191.2746ms.
+Executed action Blog.Web.Controllers.HomeController.Index (Blog.Web) in 327.6723ms
+Request finished in 1019.6963ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 44.7621ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 198.4102ms 200 
+Request finished in 579.2484ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 190.8442ms 200 
+Request finished in 445.9425ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 333.6366ms 200 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 342.4679ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 5.0652ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 14.2356ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 5.9165ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 5.2189ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 7.9095ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 89.854ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 6.8132ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 68.1497ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 130.18ms 200 
+Request finished in 529.5489ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 274.0157ms 200 
+Request finished in 588.6181ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 200.1035ms 200 
+Request finished in 797.3379ms 404 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 188.9272ms 200 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 313.7928ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 270.6786ms 200 
+Request finished in 566.7789ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 311.1802ms 200 
+Route matched with {action = "Login", controller = "Acc"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller Blog.Web.Controllers.AccController (Blog.Web).
+Executed action Blog.Web.Controllers.AccController.Login (Blog.Web) in 152.2122ms
+An unhandled exception has occurred while executing the request.
+Request finished in 2063.9152ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 416.3394ms 200 
+Route matched with {action = "Login", controller = "Acc"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller Blog.Web.Controllers.AccController (Blog.Web).
+Executed action Blog.Web.Controllers.AccController.Login (Blog.Web) in 31.5448ms
+An unhandled exception has occurred while executing the request.
+<<<<<<< HEAD
+Request finished in 1705.2368ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 221.4937ms 200 
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Blog.Web.Controllers.HomeController (Blog.Web).
+Executing action method Blog.Web.Controllers.HomeController.Index (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.HomeController.Index (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.4472ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 347.4577ms.
+Executed action Blog.Web.Controllers.HomeController.Index (Blog.Web) in 567.3066ms
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request finished in 1768.5177ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Processing request /lib/bootstrap/dist/js/bootstrap.bundle.js
+Request finished in 243.248ms 200 
+The file /css/site.css was not modified
+The file /js/site.js was not modified
+Request finished in 337.648ms 304 application/javascript
+Request finished in 397.5684ms 304 text/css
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 883.4226ms 200 
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Blog.Web.Controllers.HomeController (Blog.Web).
+Executing action method Blog.Web.Controllers.HomeController.Index (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.HomeController.Index (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.937ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 207.8555ms.
+Executed action Blog.Web.Controllers.HomeController.Index (Blog.Web) in 319.5363ms
+Request finished in 2151.0362ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Processing request /lib/bootstrap/dist/js/bootstrap.bundle.js
+The file /css/site.css was not modified
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+The file /js/site.js was not modified
+Request finished in 406.5345ms 200 
+Request finished in 475.221ms 304 text/css
+Request finished in 565.6046ms 304 application/javascript
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 478.1057ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 24.3087ms
+An unhandled exception has occurred while executing the request.
+Request finished in 2090.5258ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 333.0348ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 267.5128ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1972.4162ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 427.8685ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 146.0547ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1943.5898ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Blog.Web.Controllers.HomeController (Blog.Web).
+Executing action method Blog.Web.Controllers.HomeController.Index (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.HomeController.Index (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6527ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 81.3607ms.
+Executed action Blog.Web.Controllers.HomeController.Index (Blog.Web) in 105.3328ms
+Request finished in 269.6856ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 459.4389ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 8.6141ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1204.04ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 279.0883ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 15.437ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1110.759ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 184.0388ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 250.6142ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1670.6796ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 216.6027ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 109.0096ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1171.5611ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 19.9781ms
+An unhandled exception has occurred while executing the request.
+Request finished in 105.9974ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/favicon.ico  
+Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\emergency\Desktop\Artem blog\Blog\Blog.Web\wwwroot\favicon.ico'
+Request finished in 287.7272ms 200 image/x-icon
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 443.415ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 203.1325ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1464.6916ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 674.7349ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 15.3042ms
+An unhandled exception has occurred while executing the request.
+Request finished in 2166.6601ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 382.1833ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 17.4815ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1082.4062ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 5.1167ms
+An unhandled exception has occurred while executing the request.
+Request finished in 266.7322ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 256.7158ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 6.4263ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1063.6369ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 548.8514ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 183.4945ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1972.734ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 314.2997ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 48.3278ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1195.9489ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 440.4289ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 157.182ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1713.9287ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 267.0298ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 9.9735ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1631.451ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 591.8889ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 9.6665ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1556.2489ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 423.9488ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 28.6563ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1268.5642ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 552.6279ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 23.4936ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1340.2131ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 362.4323ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 32.1209ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1161.3346ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 281.3521ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 69.8636ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1019.4093ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 597.2266ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 196.4912ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1890.5588ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 468.657ms 200 
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Blog.Web.Controllers.HomeController (Blog.Web).
+Executing action method Blog.Web.Controllers.HomeController.Index (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.HomeController.Index (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.0757ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 221.0584ms.
+Executed action Blog.Web.Controllers.HomeController.Index (Blog.Web) in 391.302ms
+Request finished in 1439.9243ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+The file /js/site.js was not modified
+The file /css/site.css was not modified
+Request finished in 182.9554ms 304 text/css
+The file /lib/jquery/dist/jquery.js was not modified
+Request finished in 74.5347ms 304 application/javascript
+Request finished in 119.3341ms 304 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Processing request /lib/bootstrap/dist/js/bootstrap.bundle.js
+Request finished in 245.2117ms 200 
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 608.7011ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 20.8151ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1795.1633ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 452.6616ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 93.4998ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1177.2546ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 456.7936ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 120.3733ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1192.5652ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 10.0955ms
+An unhandled exception has occurred while executing the request.
+Request finished in 198.6124ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 440.3135ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 64.1485ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1047.1273ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 662.0418ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 65.6634ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1328.3264ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 387.2815ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 14.586ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1020.8862ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 291.1859ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 7.8596ms
+An unhandled exception has occurred while executing the request.
+Request finished in 955.5389ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 564.1588ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 59.7183ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1240.9425ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 478.1625ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 121.7139ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1405.0322ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 412.0551ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 63.0173ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1434.2325ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 1073.0508ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 42.1945ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1929.1699ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 381.2235ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 111.7825ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1290.5656ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 19.7697ms
+An unhandled exception has occurred while executing the request.
+Request finished in 331.983ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 1121.1424ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing controller action with signature System.String Example() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 364.2755ms
+An unhandled exception has occurred while executing the request.
+Request finished in 3240.9341ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 865.2364ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing controller action with signature System.String Example() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 855.397ms
+An unhandled exception has occurred while executing the request.
+Request finished in 3980.2766ms 500 text/html; charset=utf-8
+=======
+Request finished in 1617.436ms 500 text/html; charset=utf-8
+>>>>>>> 76d6289f98acdfbda633343e1cefb410e3a75718
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+<<<<<<< HEAD
+Request finished in 1156.1753ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing controller action with signature System.String Example() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 24.4857ms
+An unhandled exception has occurred while executing the request.
+Request finished in 3900.4129ms 500 text/html; charset=utf-8
+=======
+Request finished in 300.3767ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 113.1168ms
+An unhandled exception has occurred while executing the request.
+Request finished in 2066.0552ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 223.759ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 10.3323ms
+An unhandled exception has occurred while executing the request.
+Request finished in 951.4245ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 427.4805ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 78.8244ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1196.581ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 135.92ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 66.6179ms
+An unhandled exception has occurred while executing the request.
+Request finished in 759.5262ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 320.439ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 613.4488ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1432.6884ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 317.1604ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 80.0675ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1012.1083ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 119.3721ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executing action method Blog.Web.Controllers.Post.PostController.Example (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.Post.PostController.Example (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 15.2303ms.
+Executing ObjectResult, writing value of type 'System.String'.
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 204.4763ms
+Request finished in 718.8745ms 200 text/plain; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 177.0048ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 132.0454ms
+An unhandled exception has occurred while executing the request.
+Request finished in 963.6788ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 768.8679ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 362.5512ms
+An unhandled exception has occurred while executing the request.
+Request finished in 5283.5895ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 150.8495ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 102.8098ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1157.3432ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 122.9552ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 11.7516ms
+An unhandled exception has occurred while executing the request.
+Request finished in 931.7311ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 274.419ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 27.1917ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1137.0204ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 389.2897ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 86.0521ms
+An unhandled exception has occurred while executing the request.
+Request finished in 1583.7567ms 500 text/html; charset=utf-8
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 236.2029ms 200 
+Route matched with {action = "Example", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Example (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (678ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1,529ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+Applying migration '20190615135507_init'.
+Executed DbCommand (927ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Comments] (
+    [Id] int NOT NULL IDENTITY,
+    [Author] int NOT NULL,
+    [Date] datetime2 NOT NULL,
+    [Like] int NOT NULL,
+    [TheContentOfComments] nvarchar(max) NULL,
+    CONSTRAINT [PK_Comments] PRIMARY KEY ([Id])
+);
+Executed DbCommand (117ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Users] (
+    [Id] int NOT NULL IDENTITY,
+    [FullName] nvarchar(max) NULL,
+    [Mail] nvarchar(max) NULL,
+    [Login] nvarchar(max) NULL,
+    [Password] nvarchar(max) NULL,
+    [Group] int NOT NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([Id])
+);
+Executed DbCommand (148ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Posts] (
+    [Id] int NOT NULL IDENTITY,
+    [Category] nvarchar(max) NULL,
+    [Author] int NOT NULL,
+    [PostUserId] int NULL,
+    [Title] nvarchar(max) NULL,
+    [Date] datetime2 NOT NULL,
+    [Like] int NOT NULL,
+    [Content] nvarchar(max) NULL,
+    [PhotoId] int NOT NULL,
+    [Comment] int NOT NULL,
+    [PostCommentId] int NULL,
+    CONSTRAINT [PK_Posts] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Posts_Comments_PostCommentId] FOREIGN KEY ([PostCommentId]) REFERENCES [Comments] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Posts_Users_PostUserId] FOREIGN KEY ([PostUserId]) REFERENCES [Users] ([Id]) ON DELETE NO ACTION
+);
+Executed DbCommand (138ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Posts_PostCommentId] ON [Posts] ([PostCommentId]);
+Executed DbCommand (17ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Posts_PostUserId] ON [Posts] ([PostUserId]);
+Executed DbCommand (2,242ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20190615135507_init', N'2.1.4-rtm-31024');
+Executing action method Blog.Web.Controllers.Post.PostController.Example (Blog.Web) - Validation state: Valid
+Executed action method Blog.Web.Controllers.Post.PostController.Example (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 24.4704ms.
+Executing ObjectResult, writing value of type 'System.String'.
+Executed action Blog.Web.Controllers.Post.PostController.Example (Blog.Web) in 23225.7416ms
+Request finished in 24365.5485ms 200 text/plain; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 155.2313ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (112ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (87ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 477.1268ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 341.0287ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 31425.2994ms
+Request finished in 33755.9239ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request finished in 41.5357ms 404 
+Sending file. Request path: '/js/site.js'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\css\site.css'
+Request finished in 378.9176ms 200 application/javascript
+Request finished in 402.0605ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 449.2116ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 16.433ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 400.5412ms 200 
+Request finished in 1426.4681ms 404 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (208ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (34ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 496.4577ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 320.2334ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 2991.9186ms
+Request finished in 4557.6053ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 21.0439ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 10.5101ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 234.3201ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 15.0645ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 16.5912ms 404 
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (26ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 206.5304ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 154.3305ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 1589.0317ms
+Request finished in 2357.2494ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 13.0636ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 13.412ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 6.056ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 35.5011ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 1791.7272ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (150ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (37ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 476.6353ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 328.6592ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 25818.4138ms
+Request finished in 34386.5475ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 39.2025ms 404 
+The file /lib/jquery/dist/jquery.js was not modified
+The file /js/site.js was not modified
+The file /css/site.css was not modified
+Request finished in 185.0049ms 304 application/javascript
+Request finished in 188.1369ms 304 text/css
+Request finished in 188.3746ms 304 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 6.9395ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 913.3049ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (950ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1,312ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (403ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1747.1945ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 837.2535ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 45412.0962ms
+Request finished in 48244.2287ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 35.069ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 53.7977ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (94ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 16.8664ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 43.0441ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 1139.01ms
+Request finished in 1304.6122ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 141.8831ms 404 
+Sending file. Request path: '/js/site.js'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\css\site.css'
+Request finished in 761.8237ms 200 application/javascript
+Request finished in 785.4735ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 1025.983ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 22.9116ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 1388.8297ms 200 
+The file /css/site.css was not modified
+Request finished in 2572.8357ms 304 text/css
+Request finished in 5024.3857ms 404 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (568ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (534ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (258ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2398.0268ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 1079.5552ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 42669.9128ms
+Request finished in 48168.9947ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 32.9912ms 404 
+Sending file. Request path: '/css/site.css'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\css\site.css'
+Request finished in 419.0556ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 53.0246ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (79ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 69.2248ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 64.9603ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 1388.1098ms
+Request finished in 1587.6173ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Request finished in 308.2845ms 404 
+Sending file. Request path: '/css/site.css'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\js\site.js'
+Request finished in 736.3842ms 200 text/css
+Request finished in 1071.1457ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'D:\Blog\Blog\Blog.Web\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 1555.8691ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 12.0361ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 2831.3575ms 200 
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+The file /css/site.css was not modified
+Request finished in 1273.6007ms 304 text/css
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 347.0261ms 404 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 7.5244ms 404 
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (118ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (26ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (20ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (114ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2162.1128ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 1061.973ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 86690.4576ms
+Request finished in 104716.132ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 12.3556ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 52.3958ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 1632.3283ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (525ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (642ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (333ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1321.1736ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 603.6474ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 39795.6195ms
+Request finished in 51186.8438ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request finished in 39.3629ms 404 
+The file /css/site.css was not modified
+Request finished in 897.3739ms 304 text/css
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 8.0242ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 1572.0203ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (1,436ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (169ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (135ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+No migrations were applied. The database is already up to date.
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 1952.3342ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Route matched with {action = "Post", controller = "Post"}. Executing action Blog.Web.Controllers.Post.PostController.Post (Blog.Web)
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Entity Framework Core 2.1.4-rtm-31024 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+>>>>>>> 74279c453c7c153261f481d32826ad3b5fd4ab4e
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request finished in 107.6115ms 200 
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Entity Framework Core 2.1.11-servicing-32099 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Request starting HTTP/1.1 DEBUG http://localhost:50048/  0
+Request starting HTTP/1.1 GET http://localhost:44305/  
+Request finished in 354.0088ms 200 
+Route matched with {action = "Post", controller = "Post"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post() on controller Blog.Web.Controllers.Post.PostController (Blog.Web).
+Entity Framework Core 2.1.11-servicing-32099 initialized 'DataContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Executed DbCommand (793ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (1,712ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+Executed DbCommand (64ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Executed DbCommand (675ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+Applying migration '20190615135507_init'.
+Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Comments] (
+    [Id] int NOT NULL IDENTITY,
+    [Author] int NOT NULL,
+    [Date] datetime2 NOT NULL,
+    [Like] int NOT NULL,
+    [TheContentOfComments] nvarchar(max) NULL,
+    CONSTRAINT [PK_Comments] PRIMARY KEY ([Id])
+);
+Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Users] (
+    [Id] int NOT NULL IDENTITY,
+    [FullName] nvarchar(max) NULL,
+    [Mail] nvarchar(max) NULL,
+    [Login] nvarchar(max) NULL,
+    [Password] nvarchar(max) NULL,
+    [Group] int NOT NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([Id])
+);
+Executed DbCommand (46ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Posts] (
+    [Id] int NOT NULL IDENTITY,
+    [Category] nvarchar(max) NULL,
+    [Author] int NOT NULL,
+    [PostUserId] int NULL,
+    [Title] nvarchar(max) NULL,
+    [Date] datetime2 NOT NULL,
+    [Like] int NOT NULL,
+    [Content] nvarchar(max) NULL,
+    [PhotoId] int NOT NULL,
+    [Comment] int NOT NULL,
+    [PostCommentId] int NULL,
+    CONSTRAINT [PK_Posts] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Posts_Comments_PostCommentId] FOREIGN KEY ([PostCommentId]) REFERENCES [Comments] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Posts_Users_PostUserId] FOREIGN KEY ([PostUserId]) REFERENCES [Users] ([Id]) ON DELETE NO ACTION
+);
+Executed DbCommand (68ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Posts_PostCommentId] ON [Posts] ([PostCommentId]);
+Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Posts_PostUserId] ON [Posts] ([PostUserId]);
+Executed DbCommand (280ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20190615135507_init', N'2.1.11-servicing-32099');
+Executing action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web) - Validation state: Valid
+Executed DbCommand (23ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[Category], [p].[Comment], [p].[Content], [p].[Date], [p].[Like], [p].[PhotoId], [p].[PostCommentId], [p].[PostUserId], [p].[Title]
+FROM [Posts] AS [p]
+Executed action method Blog.Web.Controllers.Post.PostController.Post (Blog.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 476.8621ms.
+Executing ViewResult, running view Post.
+Executed ViewResult - view Post executed in 394.0616ms.
+Executed action Blog.Web.Controllers.Post.PostController.Post (Blog.Web) in 7811.5461ms
+Request starting HTTP/1.1 GET http://localhost:44305/js/site.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44305/css/site.css  
+Request finished in 9641.8606ms 200 text/html; charset=utf-8
+Request finished in 148.2546ms 404 
+Request starting HTTP/1.1 GET http://localhost:44305/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44305/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 137.64ms 404 

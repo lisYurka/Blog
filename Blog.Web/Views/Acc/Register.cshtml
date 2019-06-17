@@ -1,0 +1,30 @@
+﻿@model Blog.Web.Models.RegisterModel
+<h2>Регистрация нового пользователя</h2>
+<form method ="post" asp-controller="Acc" asp-action="Register" asp-antiforgery="true">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div>
+        <div>
+        <label asp-for="Mail">Введите мыло</label><br />
+        <input type="text" asp-for=" Mail" />
+        <span asp-validation-for="Mail" />
+        </div>
+        <div>
+        <label asp-for="Login">Введите логин</label><br />
+        <input type="text" asp-for=" Login" />
+        <span asp-validation-for="Login" />
+        </div>
+        <div>
+        <label asp-for="Password">Введите пароль</label><br />
+        <input asp-for=" Password" />
+        <span asp-validation-for="Password" /> 
+        </div>
+        <div>
+        <label asp-for="RepeatePassword">Повторите пароль</label><br />
+        <input asp-for=" RepeatePassword" />
+        <span asp-validation-for="RepeatePassword" />
+        </div>
+        <div>
+        <input type="submit" value="Зарегистрироваться"/>
+        </div>
+    </div>
+</form>

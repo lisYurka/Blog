@@ -4,7 +4,7 @@
 // Write your JavaScript code.
 document.addEventListener('DOMContentLoaded', function () {
 
-    $('body').on('click', function () {
+    /*$('body').on('click', function () {
         alert("Hello");
-    });
+    });*/
 });
